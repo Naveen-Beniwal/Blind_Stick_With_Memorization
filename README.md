@@ -68,14 +68,14 @@ Path recording
 Emergency alerts
 
 
-Code
+Step 1 
 - Press START button
 - Walk through desired path
 - System records turning points
 - Press STOP to save path
 Navigation Mode:
 
-Code
+Step 2
 
 - Select saved path
 - Follow audio guidance
@@ -84,7 +84,7 @@ Code
   
 Emergency Protocol:
 
-Code
+Step 3
 - Press emergency button
 - GPS coordinates captured
 - Location sent to preset contacts
