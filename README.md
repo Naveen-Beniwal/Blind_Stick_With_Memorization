@@ -94,24 +94,18 @@ Code
 
 💡 Unique Aspects
 
-Indoor Positioning: Works without GPS dependency
-
-Path Memory: Learns and remembers frequently used routes
-
-Hybrid Navigation: Combines ultrasonic and memorized path data
-
-Emergency Response: Instant location sharing with relatives
+- Indoor Positioning: Works without GPS dependency
+- Path Memory: Learns and remembers frequently used routes
+- Hybrid Navigation: Combines ultrasonic and memorized path data
+- Emergency Response: Instant location sharing with relatives
 
 
 🤝 Future Improvements
 
-Add temperature sensors
-
-Implement machine learning for path optimization
-
-Develop mobile app integration
-
-Add voice command features
+- Add temperature sensors
+- Implement machine learning for path optimization
+- Develop mobile app integration
+- Add voice command features
 
 
 👥 Contributors
@@ -123,4 +117,4 @@ Naveen Beniwal
 For setup assistance or queries:
 
 📧 Email: naveenbeniwal00001@gmail.com
-🔗 GitHub: Project Repository
+
